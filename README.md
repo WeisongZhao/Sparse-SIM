@@ -10,7 +10,7 @@
 [![code](https://img.shields.io/badge/code-1.0.3-yellow.svg)](https://github.com/WeisongZhao/Sparse-SIM/)
 [![website](https://img.shields.io/badge/website-up-green.svg)](https://weisongzhao.github.io/Sparse-SIM/)
 [![releases](https://img.shields.io/badge/release-v1.0.3-blue.svg)](https://github.com/WeisongZhao/Sparse-SIM/releases/tag/v1.0.3/)
-[![paper](https://img.shields.io/badge/blog-deconvolution-black.svg)](https://weisongzhao.github.io/rl_positivity_si/)
+[![paper](https://img.shields.io/badge/blog-deconvolution-black.svg)](https://weisongzhao.github.io/rl_positivity_sim/)
 [![paper](https://img.shields.io/badge/paper-nat.%20biotech.-black.svg)](https://www.nature.com/nbt/)<br>
 [![Github commit](https://img.shields.io/github/last-commit/WeisongZhao/Sparse-SIM)](https://github.com/WeisongZhao/Sparse-SIM/)
 [![repo size](https://img.shields.io/github/repo-size/WeisongZhao/Sparse-SIM)](https://github.com/WeisongZhao/Sparse-SIM/)
