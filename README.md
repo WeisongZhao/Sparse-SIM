@@ -67,8 +67,6 @@
   <b> <a href="https://www.nature.com/nbt/">Weisong Zhao et al. Extending resolution of structured illumination microscopy with sparse deconvolution, Nature Biotechnology, X, XXX-XXX (2021)</a></b>
 </p>
 
-> We will open all of codes as soon as the paper is accepted.
-
 ## Instruction
 - The binary executable files (.exe/.app) can be found in the [release](https://github.com/WeisongZhao/Sparse-SIM/releases)
 - More details on [Wiki](https://github.com/WeisongZhao/Sparse-SIM/wiki/) and [Document](./UserManual.pdf).
@@ -100,10 +98,10 @@ help Fourier_Oversample
 This software has been tested on: 
 - Matlab R2017b on (Win 10: 128 GB and NVIDIA Titan Xp: 12GB; CUDA 9.1); 
 - Matlab R2019b on (Win 10: 128 GB and NVIDIA Titan RTX: 24GB; CUDA 10.0);
-- Matlab R2019b on (Win10: 16GB and NVIDIA GTX1050Ti: 4GB, CUDA 10.2)
-- Matlab R2015b on (CentOS7: 64GB and Tesla K40 :12GB, CUDA 9.0)
-- Matlab R2018b on (Ubuntu18.04, 16GB and NVIDIA TITAN Xp: 12GB, CUDA 10.1)
-- Matlab R2017b on (MacOS 10, 8GB without GPU acceleration)
+- Matlab R2019b on (Win 10: 16GB and NVIDIA GTX1050Ti: 4GB, CUDA 10.2)
+- Matlab R2015b on (CentOS 7: 64GB and Tesla K40 :12GB, CUDA 9.0)
+- Matlab R2018b on (Ubuntu 18.04: 16GB and NVIDIA TITAN Xp: 12GB, CUDA 10.1)
+- Matlab R2017b on (MacOS 10: 8GB without GPU acceleration)
 
 More on [Wiki](https://github.com/WeisongZhao/Sparse-SIM/wiki/).
 
