@@ -22,13 +22,13 @@
 % Version 1.0.3
 % if any bugs is found, please just email me or put an issue on the github.
 %***************************************************************************
-% https:/weisongzhao.github.io
+% hhttps://weisongzhao.github.io/Sparse-SIM/
 %***************************************************************************
 % It is a part of publication:
 % Weisong Zhao et al. Extending resolution of structured illumination
 % microscopy with sparse deconvolution, Nature Biotechnology, X, XXX-XXX (2021).
 % *********************************************************************************
-%   Copyright 2019~2020 Weisong Zhao et al.
+%   Copyright 2019~2021 Weisong Zhao et al.
 %
 %    This program is free software: you can redistribute it and/or modify
 %    it under the terms of the GNU General Public License as published by

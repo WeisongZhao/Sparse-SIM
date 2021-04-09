@@ -1,14 +1,15 @@
 %***************************************************************************
 %                                  Set-up.
 % *********************************************************************************
-% This software package is a tool for SIM images reconstruction (including
-% xy (2D), xy-t (2D along t axis), and xy-z (3D) images). It based on the 
-% natural transcendental knowledge of fluorescent biological images: 
-% sparsity and continuity along xy-t(z) axes.
+% This software package is It is an universal post-processing framework for 
+% fluorescent (or intensity-based) image restoration, including 
+% xy (2D), xy-t (2D along t axis), and xy-z (3D) images. 
+% It is based on the natural priori knowledge of forward fluorescent 
+% imaging model: sparsity and continuity along xy-t(z) axes.
 % *********************************************************************************
 % Sparse-SIM algorithm GUI v1.0.3
 % *********************************************************************************
-%% It is able to run under windows 7-10, and should be modified for the Unix systems.
+%% It is able to run under Windows 7-10, and should be modified for the Unix systems.
 % ------------------------------------------------------------------------------------------------
 % argmin_g { ||f-g ||_2^2 +||gxx||_1+||gxx||_1+||gyy||_1+lamdbaz*||gzz||_1+2*||gxy||_1
 %  +2*sqrt(lamdbaz)||gxz||_1+ 2*sqrt(lamdbaz)|||gyz||_1+2*sqrt(lamdbal1)|||g||_1}
@@ -22,7 +23,7 @@
 % Weisong Zhao et al. Extending resolution of structured illumination
 % microscopy with sparse deconvolution, Nature Biotechnology, X, XXX-XXX (2021).
 % *********************************************************************************
-%   Copyright 2019~2020 Weisong Zhao et al.
+%   Copyright 2019~2021 Weisong Zhao et al.
 %
 %    This program is free software: you can redistribute it and/or modify
 %    it under the terms of the GNU General Public License as published by
