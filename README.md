@@ -21,13 +21,13 @@
 [![GitHub forks](https://img.shields.io/github/forks/WeisongZhao/Sparse-SIM?style=social)](https://github.com/WeisongZhao/Sparse-SIM/)
 
 <p>
-<h1 align="center">Sparse-SIM<sub> v1.0.3</sub></h1>
+<h1 align="center">Sparse deconvolution<sub> v1.0.3</sub></h1>
 <!-- <h6 align="center"><sup>v1.0.3</sup></h6> -->
 <!-- <h4 align="center">This repository contains the updating version of Sparse deconvolution.</h4> -->
 </p>  
 
 <p align='center'>
-  <b> <a href="https://www.nature.com/nbt/">Extending resolution of structured illumination microscopy with sparse deconvolution</a></b>
+  <b> <a href="https://www.nature.com/nbt/">Improving live-cell super-resolution fluorescence microscopy with sparse deconvolution</a></b>
 </p>
 
 <p align='center'>
@@ -64,7 +64,7 @@
 <b>It is a part of publication. For algorithmic details, please refer to: <b>
 
 <p align='center'>
-  <b> <a href="https://www.nature.com/nbt/">Weisong Zhao et al. Extending resolution of structured illumination microscopy with sparse deconvolution, Nature Biotechnology, X, XXX-XXX (2021)</a></b>
+  <b> <a href="https://www.nature.com/nbt/">Weisong Zhao et al. Improving live-cell super-resolution fluorescence microscopy with sparse deconvolution, X, XXX-XXX (2021)</a></b>
 </p>
 
 ## Instruction
