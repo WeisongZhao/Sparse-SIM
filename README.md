@@ -21,7 +21,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/WeisongZhao/Sparse-SIM?style=social)](https://github.com/WeisongZhao/Sparse-SIM/)
 
 <p>
-<h1 align="center">Sparse deconvolution<sub>v1.0.3</sub></h1>
+<h1 align="center">Sparse-SIM<sub>v1.0.3</sub></h1>
 <!-- <h6 align="center"><sup>v1.0.3</sup></h6> -->
 <!-- <h4 align="center">This repository contains the updating version of Sparse deconvolution.</h4> -->
 </p>  
