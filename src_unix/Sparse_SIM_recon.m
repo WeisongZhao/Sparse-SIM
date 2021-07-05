@@ -20,23 +20,23 @@
 % https://weisongzhao.github.io/Sparse-SIM/
 % *********************************************************************************
 % It is a part of publication:
-% Weisong Zhao et al. Extending resolution of structured illumination
-% microscopy with sparse deconvolution, Nature Biotechnology, X, XXX-XXX (2021).
+% Weisong Zhao et al. Improving live-cell super-resolution fluorescence microscopy 
+% with sparse deconvolution, Nature Biotechnology, X, XXX-XXX (2021).
 % *********************************************************************************
-%   Copyright 2019~2021 Weisong Zhao et al.
+%    Copyright 2018~2021 Weisong Zhao et al.
 %
 %    This program is free software: you can redistribute it and/or modify
-%    it under the terms of the GNU General Public License as published by
-%    the Free Software Foundation, either version 3 of the License, or
-%    (at your option) any later version.
+%    it under the terms of the Open Data Commons Open Database License v1.0.
 %
 %    This program is distributed in the hope that it will be useful,
 %    but WITHOUT ANY WARRANTY; without even the implied warranty of
-%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-%    GNU General Public License for more details.
+%    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+%    Open Data Commons Open Database License for more details.
 %
-%    You should have received a copy of the GNU General Public License
-%    along with this program.  If not, see <http://www.gnu.org/licenses/>.
+%    You should have received a copy of the 
+%    Open Data Commons Open Database License
+%    along with this program.  If not, see:
+%    <https://opendatacommons.org/licenses/odbl/>.
 %***************************************************************************
 
 function varargout = Sparse_SIM_recon(varargin)

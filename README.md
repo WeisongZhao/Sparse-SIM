@@ -132,7 +132,7 @@ You can also find some fancy results and comparisons on my [website](https://wei
 
 
 # License 
-This software and corresponding methods can only be used for **non-commercial** use, and they are under GNU General Public License as published by the Free Software Foundation, version 3 of the license.
+This software and corresponding methods can only be used for **non-commercial** use, and they are under Open Data Commons Open Database License v1.0.
 
 <p align='center'>
   <img src='./sources/HIT.jpg' width='240'/>
