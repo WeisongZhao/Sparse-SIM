@@ -19,6 +19,7 @@
 [![GitHub watchers](https://img.shields.io/github/watchers/WeisongZhao/Sparse-SIM?style=social)](https://github.com/WeisongZhao/Sparse-SIM/) 
 [![GitHub stars](https://img.shields.io/github/stars/WeisongZhao/Sparse-SIM?style=social)](https://github.com/WeisongZhao/Sparse-SIM/) 
 [![GitHub forks](https://img.shields.io/github/forks/WeisongZhao/Sparse-SIM?style=social)](https://github.com/WeisongZhao/Sparse-SIM/)
+[![Twitter](https://img.shields.io/twitter/follow/weisong_zhao?label=weisong)](https://twitter.com/weisong_zhao/status/1370308101690118146)
 
 <p>
 <h1 align="center">Sparse-SIM<sub>v1.0.3</sub></h1>
@@ -96,12 +97,12 @@ help Fourier_Oversample
 
 ## Tested platform
 This software has been tested on: 
-- Matlab R2017b on (Win 10: 128 GB and NVIDIA Titan Xp: 12GB; CUDA 9.1); 
-- Matlab R2019b on (Win 10: 128 GB and NVIDIA Titan RTX: 24GB; CUDA 10.0);
-- Matlab R2019b on (Win 10: 16GB and NVIDIA GTX1050Ti: 4GB, CUDA 10.2)
-- Matlab R2015b on (CentOS 7: 64GB and Tesla K40 :12GB, CUDA 9.0)
-- Matlab R2018b on (Ubuntu 18.04: 16GB and NVIDIA TITAN Xp: 12GB, CUDA 10.1)
-- Matlab R2017b on (MacOS 10: 8GB without GPU acceleration)
+- MATLAB R2017b on (Win 10: 128 GB and NVIDIA Titan Xp: 12GB; CUDA 9.1); 
+- MATLAB R2019b on (Win 10: 128 GB and NVIDIA Titan RTX: 24GB; CUDA 10.0);
+- MATLAB R2019b on (Win 10: 16GB and NVIDIA GTX1050Ti: 4GB, CUDA 10.2);
+- MATLAB R2015b on (CentOS 7: 64GB and Tesla K40 :12GB, CUDA 9.0);
+- MATLAB R2018b on (Ubuntu 18.04: 16GB and NVIDIA TITAN Xp: 12GB, CUDA 10.1);
+- MATLAB R2017b on (MacOS 10: 8GB without GPU acceleration).
 
 More on [Wiki](https://github.com/WeisongZhao/Sparse-SIM/wiki/).
 
