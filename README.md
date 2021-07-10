@@ -26,7 +26,9 @@
 <!-- <h6 align="center"><sup>v1.0.3</sup></h6> -->
 <!-- <h4 align="center">This repository contains the updating version of Sparse deconvolution.</h4> -->
 </p>  
-
+<p align='left'>
+It is a part of publication. For details, please refer to:
+</p>
 <p align='center'>
   <b> <a href="https://www.nature.com/nbt/">Improving live-cell super-resolution fluorescence microscopy with sparse deconvolution</a></b>
 </p>
