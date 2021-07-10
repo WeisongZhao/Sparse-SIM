@@ -26,9 +26,11 @@
 <!-- <h6 align="center"><sup>v1.0.3</sup></h6> -->
 <!-- <h4 align="center">This repository contains the updating version of Sparse deconvolution.</h4> -->
 </p>  
+
 <p align='left'>
-It is a part of publication. For details, please refer to:
+<i>It is a part of publication. For details, please refer to:</i>
 </p>
+
 <p align='center'>
   <b> <a href="https://www.nature.com/nbt/">Improving live-cell super-resolution fluorescence microscopy with sparse deconvolution</a></b>
 </p>
@@ -66,9 +68,6 @@ It is a part of publication. For details, please refer to:
 
 <b>It is a part of publication. For algorithmic details, please refer to: <b>
 
-<p align='center'>
-  <b> <a href="https://www.nature.com/nbt/">Weisong Zhao et al. Improving live-cell super-resolution fluorescence microscopy with sparse deconvolution, X, XXX-XXX (2021)</a></b>
-</p>
 
 ## Instruction
 - The binary executable files (.exe/.app) can be found in the [release](https://github.com/WeisongZhao/Sparse-SIM/releases)
