@@ -13,9 +13,10 @@
 [![paper](https://img.shields.io/badge/blog-deconvolution-black.svg)](https://weisongzhao.github.io/rl_positivity_sim/)
 [![paper](https://img.shields.io/badge/paper-nat.%20biotech.-black.svg)](https://www.nature.com/nbt/)<br>
 [![Github commit](https://img.shields.io/github/last-commit/WeisongZhao/Sparse-SIM)](https://github.com/WeisongZhao/Sparse-SIM/)
-[![repo size](https://img.shields.io/github/repo-size/WeisongZhao/Sparse-SIM)](https://github.com/WeisongZhao/Sparse-SIM/)
+[![DOI](https://zenodo.org/badge/5079744.svg)](https://zenodo.org/badge/latestdoi/5079744)
 [![Github All Releases](https://img.shields.io/github/downloads/WeisongZhao/Sparse-SIM/total.svg)](https://github.com/WeisongZhao/Sparse-SIM/releases/tag/v1.0.3/) 
 [![License](https://img.shields.io/github/license/WeisongZhao/Sparse-SIM)](https://github.com/WeisongZhao/Sparse-SIM/blob/master/LICENSE/)<br>
+[![Twitter](https://img.shields.io/twitter/follow/weisong_zhao?label=weisong)](https://twitter.com/weisong_zhao/status/1370308101690118146)
 [![GitHub watchers](https://img.shields.io/github/watchers/WeisongZhao/Sparse-SIM?style=social)](https://github.com/WeisongZhao/Sparse-SIM/) 
 [![GitHub stars](https://img.shields.io/github/stars/WeisongZhao/Sparse-SIM?style=social)](https://github.com/WeisongZhao/Sparse-SIM/) 
 [![GitHub forks](https://img.shields.io/github/forks/WeisongZhao/Sparse-SIM?style=social)](https://github.com/WeisongZhao/Sparse-SIM/)
