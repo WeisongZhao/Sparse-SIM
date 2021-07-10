@@ -66,8 +66,6 @@
 <img src='./sources/GUIv2.png' width=750>
 </p>
 
-<b>It is a part of publication. For algorithmic details, please refer to: <b>
-
 
 ## Instruction
 - The binary executable files (.exe/.app) can be found in the [release](https://github.com/WeisongZhao/Sparse-SIM/releases)
