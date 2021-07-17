@@ -53,6 +53,8 @@
 <sup>3</sup>Equally contributed.
 </p>
 
+**Related links:** [img2vid](https://github.com/WeisongZhao/img2vid/) and [Adaptive filter imagej-plugin](https://github.com/WeisongZhao/AdaptiveMedian.imagej/) 
+You can also find some fancy results and comparisons on my [website](https://weisongzhao.github.io/MyWeb2/portfolio-4-col.html).
 
 <!-- <p align="center">
 <img src='./sources/GUIv2.png' width=750>
