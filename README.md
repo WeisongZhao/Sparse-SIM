@@ -53,7 +53,6 @@
 <sup>3</sup>Equally contributed.
 </p>
 
-**Related links:** [img2vid](https://github.com/WeisongZhao/img2vid/) and [Adaptive filter imagej-plugin](https://github.com/WeisongZhao/AdaptiveMedian.imagej/) 
 
 You can also find some fancy results and comparisons on my [website](https://weisongzhao.github.io/MyWeb2/portfolio-4-col.html).
 
@@ -120,8 +119,7 @@ More on [Wiki](https://github.com/WeisongZhao/Sparse-SIM/wiki/).
 - v0.2.0 Full model reconstruction
 - v0.1.0 Sparsity reconstruction core
 
-### Related links: [img2vid](https://github.com/WeisongZhao/img2vid/) and [Adaptive filter imagej-plugin](https://github.com/WeisongZhao/AdaptiveMedian.imagej/) 
-You can also find some fancy results and comparisons on my [website](https://weisongzhao.github.io/MyWeb2/portfolio-4-col.html).
+### Related links: [img2vid](https://github.com/WeisongZhao/img2vid/) and [Adaptive filter imagej-plugin](https://github.com/WeisongZhao/AdaptiveMedian.imagej/)
 
 
 <details>
