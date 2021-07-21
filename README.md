@@ -29,7 +29,7 @@
 <!-- <h4 align="center">This repository contains the updating version of Sparse deconvolution.</h4> -->
 </p>  
 
-<p align='left'>
+<p align='center'>
 <i>Words in the front: Physical resolution is meaningless if in the mathmetical space.</i>
 </p>
 
