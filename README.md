@@ -34,7 +34,7 @@
 </p>
 
 <p align='left'>
-<i>It is a part of publication. For details, please refer to:</i>
+It is a part of publication. For details, please refer to:
 </p>
 
 <p align='center'>
