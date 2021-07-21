@@ -21,7 +21,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/WeisongZhao/Sparse-SIM?style=social)](https://github.com/WeisongZhao/Sparse-SIM/) 
 [![GitHub forks](https://img.shields.io/github/forks/WeisongZhao/Sparse-SIM?style=social)](https://github.com/WeisongZhao/Sparse-SIM/)
 
-<p align='left'>
+<p align='right'>
 <i>Physical resolution is meaningless if in the mathmetical space.</i>
 </p>
 
