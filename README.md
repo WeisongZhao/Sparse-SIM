@@ -21,9 +21,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/WeisongZhao/Sparse-SIM?style=social)](https://github.com/WeisongZhao/Sparse-SIM/) 
 [![GitHub forks](https://img.shields.io/github/forks/WeisongZhao/Sparse-SIM?style=social)](https://github.com/WeisongZhao/Sparse-SIM/)
 
-<p align='left'>
-<i>Words in the front: Physical resolution is meaningless if in the mathmetical space.</i>
-</p>
+
 
 <p>
 <h1 align="center">Sparse-SIM<sub>v1.0.3</sub></h1>
@@ -31,6 +29,9 @@
 <!-- <h4 align="center">This repository contains the updating version of Sparse deconvolution.</h4> -->
 </p>  
 
+<p align='left'>
+<i>Words in the front: Physical resolution is meaningless if in the mathmetical space.</i>
+</p>
 
 <p align='left'>
 <i>It is a part of publication. For details, please refer to:</i>
