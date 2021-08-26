@@ -62,7 +62,7 @@ It is a part of publication. For details, please refer to:
 
 You can also find some fancy results and comparisons on my [website](https://weisongzhao.github.io/MyWeb2/portfolio-4-col.html).
 
-If you are interested in our work, I wrote a small [blog](https://weisongzhao.github.io/rl_positivity_sim/) about it for a further reading.
+If you are interested in our work, I wrote a small [blog](https://weisongzhao.github.io/rl_positivity_sim/) about it for further reading.
 
 <!-- <p align="center">
 <img src='./sources/GUIv2.png' width=750>
