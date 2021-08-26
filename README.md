@@ -38,7 +38,7 @@ It is a part of publication. For details, please refer to:
 </p>
 
 <p align='center'>
-  <b> <a href="https://www.nature.com/nbt/">Improving live-cell super-resolution fluorescence microscopy with sparse deconvolution</a></b>
+  <b> <a href="https://www.nature.com/nbt/">Sparse deconvolution improves the resolution of live-cell super-resolution fluorescence microscopy</a></b>
 </p>
 
 <p align='center'>
