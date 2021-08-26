@@ -24,7 +24,7 @@
 
 
 <p>
-<h1 align="center">Sparse-SIM<sub>v1.0.3</sub></h1>
+<h1 align="center">Sparse deconvolution<sub>v1.0.3</sub></h1>
 <!-- <h6 align="center"><sup>v1.0.3</sup></h6> -->
 <!-- <h4 align="center">This repository contains the updating version of Sparse deconvolution.</h4> -->
 </p>  
@@ -62,7 +62,7 @@ It is a part of publication. For details, please refer to:
 
 You can also find some fancy results and comparisons on my [website](https://weisongzhao.github.io/MyWeb2/portfolio-4-col.html).
 
-If you are interested in our work, here is also a small [blog](https://weisongzhao.github.io/rl_positivity_sim/) about it.
+If you are interested in our work, I wrote a small [blog](https://weisongzhao.github.io/rl_positivity_sim/) about it for a further reading.
 
 <!-- <p align="center">
 <img src='./sources/GUIv2.png' width=750>

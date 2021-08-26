@@ -1,5 +1,5 @@
 %***************************************************************************
-% Sparse-SIM algorithm core
+% Sparse deconvolution algorithm core
 %***************************************************************************
 % function g = SparseHessian_core(f,fidelity,contiz,paral1,iteration,gpu,mu)
 %-----------------------------------------------

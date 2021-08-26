@@ -7,7 +7,7 @@
 % It is based on the natural priori knowledge of forward fluorescent 
 % imaging model: sparsity and continuity along xy-t(z) axes. 
 % *********************************************************************************
-% Sparse-SIM algorithm GUI v1.0.3
+% Sparse deconvolution algorithm GUI v1.0.3
 % *********************************************************************************
 %% It is able to run under Windows 7-10, and should be modified for the Unix-like OS.
 % ------------------------------------------------------------------------------------------------
