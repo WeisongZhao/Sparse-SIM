@@ -140,8 +140,10 @@ More on [Wiki](https://github.com/WeisongZhao/Sparse-SIM/wiki/).
 </details>
 
 
-# License 
-This software and corresponding methods can only be used for **non-commercial** use, and they are under Open Data Commons Open Database License v1.0.
+## Open source [Sparse deconvolution](https://github.com/WeisongZhao/Sparse-SIM)
+
+- This software and corresponding methods can only be used for **non-commercial** use, and they are under Open Data Commons Open Database License v1.0.
+- Feedback, questions, bug reports and patches are welcome and encouraged!
 
 <p align='center'>
   <img src='./sources/HIT.jpg' width='240'/>
