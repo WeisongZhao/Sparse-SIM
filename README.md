@@ -127,7 +127,7 @@ More on [Wiki](https://github.com/WeisongZhao/Sparse-SIM/wiki/).
 - v0.2.0 Full model reconstruction
 - v0.1.0 Sparsity reconstruction core
 
-### Related links: [img2vid](https://github.com/WeisongZhao/img2vid/) and [Adaptive filter imagej-plugin](https://github.com/WeisongZhao/AdaptiveMedian.imagej/)
+### Related links: [img2vid](https://github.com/WeisongZhao/img2vid/), [Adaptive filter imagej-plugin](https://github.com/WeisongZhao/AdaptiveMedian.imagej/), and [Merge channels](https://github.com/WeisongZhao/Palette.ui)
 
 
 <details>
