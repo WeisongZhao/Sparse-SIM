@@ -21,7 +21,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/WeisongZhao/Sparse-SIM?style=social)](https://github.com/WeisongZhao/Sparse-SIM/) 
 [![GitHub forks](https://img.shields.io/github/forks/WeisongZhao/Sparse-SIM?style=social)](https://github.com/WeisongZhao/Sparse-SIM/)
 
-The related Python version can be found at [HERE](https://github.com/WeisongZhao/sparse-deconv-py/)
 
 <p>
 <h1 align="center">Sparse deconvolution<sub>v1.0.3</sub></h1>
@@ -59,6 +58,7 @@ It is a part of publication. For details, please refer to:
 <sup>3</sup>Equally contributed.
 </p>
 
+The related Python version can be found at [HERE](https://github.com/WeisongZhao/sparse-deconv-py/)
 
 You can also find some fancy results and comparisons on my [website](https://weisongzhao.github.io/MyWeb2/portfolio-4-col.html).
 
