@@ -21,7 +21,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/WeisongZhao/Sparse-SIM?style=social)](https://github.com/WeisongZhao/Sparse-SIM/) 
 [![GitHub forks](https://img.shields.io/github/forks/WeisongZhao/Sparse-SIM?style=social)](https://github.com/WeisongZhao/Sparse-SIM/)
 
-
+The related Python version can be found at [HERE](https://github.com/WeisongZhao/sparse-deconv-py/)
 
 <p>
 <h1 align="center">Sparse deconvolution<sub>v1.0.3</sub></h1>
@@ -70,7 +70,7 @@ If you are interested in our work, I wrote a small [blog](https://weisongzhao.gi
 
 
 ## Introduction
-<b>This repository contains the updating version of Sparse deconvolution.</b> The Sparse deconvolution is an universal post-processing framework for fluorescent (or intensity-based) image restoration, including xy (2D), xy-t (2D along t axis), and xy-z (3D) images. It is based on the natural priori knowledge of forward fluorescent imaging model: sparsity and continuity along xy-t (z) axes. 
+<b>This repository contains the updating version of Sparse deconvolution.</b> The Sparse deconvolution is an universal post-processing framework for fluorescence (or intensity-based) image restoration, including xy (2D), xy-t (2D along t axis), and xy-z (3D) images. It is based on the natural priori knowledge of forward fluorescence imaging model: sparsity and continuity along xy-t (z) axes. 
 
 <p align="center">
 <img src='./sources/GUIv2.png' width=750>
