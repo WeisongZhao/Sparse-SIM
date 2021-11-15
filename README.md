@@ -133,7 +133,7 @@ More on [Wiki](https://github.com/WeisongZhao/Sparse-SIM/wiki/).
 <details>
 <summary><b>Plans</b></summary>
 <li> <s>Debug mode for parameter-adjustment;</s></li>
-<li> A Pyhton version of Sparse deconvolution;</li>
+<li> <s>A Pyhton version of Sparse deconvolution;</s></li>
 <li> A imagej-plugin of Sparse deconvolution;</li>
 <li> A Headless mode;</li>
 <li> Reduce the necessary/exposed parameters.</li>
