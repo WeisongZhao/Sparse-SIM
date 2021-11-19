@@ -1,19 +1,18 @@
-function imwritestack(stack, filename)
+function imwritestack(stack, filename,constant)
+t = Tiff(filename, 'w');
 
-im = Tiff(filename, 'w');
-
-infostruct.ImageLength = size(stack, 1);
-infostruct.ImageWidth = size(stack, 2);
-infostruct.Photometric = Tiff.Photometric.MinIsBlack;
-infostruct.BitsPerSample =16;
-infostruct.SampleFormat = Tiff.SampleFormat.UInt;
-infostruct.PlanarConfiguration = Tiff.PlanarConfiguration.Chunky;
+tagstruct.ImageLength = size(stack, 1);
+tagstruct.ImageWidth = size(stack, 2);
+tagstruct.Photometric = Tiff.Photometric.MinIsBlack;
+tagstruct.BitsPerSample = 32;
+tagstruct.SampleFormat = Tiff.SampleFormat.IEEEFP;
+tagstruct.PlanarConfiguration = Tiff.PlanarConfiguration.Chunky;
 
 for k = 1:size(stack, 3)
-    im.setTag(infostruct)
-    im.write(uint16(stack(:, :, k)));
-    im.writeDirectory();
+    t.setTag(tagstruct)
+    t.write(single(stack(:, :, k)));
+    t.writeDirectory();
 end
 
-im.close();
+t.close();
 end
