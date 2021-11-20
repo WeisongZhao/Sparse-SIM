@@ -10,7 +10,7 @@
 [![code](https://img.shields.io/badge/code-1.0.3-yellow.svg)](https://github.com/WeisongZhao/Sparse-SIM/)
 [![website](https://img.shields.io/badge/website-up-green.svg)](https://weisongzhao.github.io/Sparse-SIM/)
 [![releases](https://img.shields.io/badge/release-v1.0.3-blue.svg)](https://github.com/WeisongZhao/Sparse-SIM/releases/tag/v1.0.3/)
-[![paper](https://img.shields.io/badge/blog-deconvolution-black.svg)](https://weisongzhao.github.io/rl_positivity_sim/)
+[![paper](https://img.shields.io/badge/post-behind%20the%20paper-black.svg)](https://bioengineeringcommunity.nature.com/posts/physical-resolution-might-be-meaningless-if-in-the-mathmetical-space)
 [![paper](https://img.shields.io/badge/paper-nat.%20biotech.-black.svg)](https://doi.org/10.1038/s41587-021-01092-2)<br>
 [![Github commit](https://img.shields.io/github/last-commit/WeisongZhao/Sparse-SIM)](https://github.com/WeisongZhao/Sparse-SIM/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5079743.svg)](https://doi.org/10.5281/zenodo.5079743)
@@ -62,7 +62,9 @@ The related Python version can be found at [HERE](https://github.com/WeisongZhao
 
 You can also find some fancy results and comparisons on my [website](https://weisongzhao.github.io/MyWeb2/portfolio-4-col.html).
 
-If you are interested in our work, I wrote a small [blog](https://weisongzhao.github.io/rl_positivity_sim/) about it for further reading.
+If you are interested in our work, I wrote a [#behind_the_paper](https://bioengineeringcommunity.nature.com/posts/physical-resolution-might-be-meaningless-if-in-the-mathmetical-space) post for further reading.
+
+Here is also a [blog](https://weisongzhao.github.io/rl_positivity_sim/) about it for further reading.
 
 <!-- <p align="center">
 <img src='./sources/GUIv2.png' width=750>
