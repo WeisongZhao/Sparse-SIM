@@ -11,7 +11,7 @@
 [![website](https://img.shields.io/badge/website-up-green.svg)](https://weisongzhao.github.io/Sparse-SIM/)
 [![releases](https://img.shields.io/badge/release-v1.0.3-blue.svg)](https://github.com/WeisongZhao/Sparse-SIM/releases/tag/v1.0.3/)
 [![paper](https://img.shields.io/badge/blog-deconvolution-black.svg)](https://weisongzhao.github.io/rl_positivity_sim/)
-[![paper](https://img.shields.io/badge/paper-nat.%20biotech.-black.svg)](https://doi.org/10.1038/s41587-021-01092-2/)<br>
+[![paper](https://img.shields.io/badge/paper-nat.%20biotech.-black.svg)](https://doi.org/10.1038/s41587-021-01092-2)<br>
 [![Github commit](https://img.shields.io/github/last-commit/WeisongZhao/Sparse-SIM)](https://github.com/WeisongZhao/Sparse-SIM/)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5079743.svg)](https://doi.org/10.5281/zenodo.5079743)
 [![Github All Releases](https://img.shields.io/github/downloads/WeisongZhao/Sparse-SIM/total.svg)](https://github.com/WeisongZhao/Sparse-SIM/releases/tag/v1.0.3/) 
@@ -37,7 +37,7 @@ It is a part of publication. For details, please refer to:
 </p>
 
 <p align='center'>
-  <b> <a href="https://doi.org/10.1038/s41587-021-01092-2/">Sparse deconvolution improves the resolution of live-cell super-resolution fluorescence microscopy</a></b>
+  <b> <a href="https://doi.org/10.1038/s41587-021-01092-2">Sparse deconvolution improves the resolution of live-cell super-resolution fluorescence microscopy</a></b>
 </p>
 
 <p align='center'>
