@@ -130,11 +130,11 @@ More on [Wiki](https://github.com/WeisongZhao/Sparse-SIM/wiki/).
 - v0.1.0 Sparsity reconstruction core
 
 ## Related links: 
-- [img2vid](https://github.com/WeisongZhao/img2vid/)
-- [Adaptive filter imagej-plugin](https://github.com/WeisongZhao/AdaptiveMedian.imagej/)
-- [Merge channels](https://github.com/WeisongZhao/Palette.ui)
-- **Preprint** [Weisong Zhao et al., Extending resolution of structured illumination microscopy with sparse deconvolution, Research Square (2021).](https://doi.org/10.21203/rs.3.rs-279271/v1)
-- **Reference** [Weisong Zhao et al., Sparse deconvolution improves the resolution of live-cell super-resolution fluorescence microscopy, Nature Biotechnology (2021).](https://doi.org/10.1038/s41587-021-01092-2)
+- A light weight MATLAB library for making exsiting images to videos: [img2vid](https://github.com/WeisongZhao/img2vid/)
+- An adaptive filter to remove isolate hot pixels: [Adaptive filter imagej-plugin](https://github.com/WeisongZhao/AdaptiveMedian.imagej/)
+- A tool for multi-color 2D or 3D imaging: [Merge channels](https://github.com/WeisongZhao/Palette.ui)
+- **Preprint:** [Weisong Zhao et al., Extending resolution of structured illumination microscopy with sparse deconvolution, Research Square (2021).](https://doi.org/10.21203/rs.3.rs-279271/v1)
+- **Reference:** [Weisong Zhao et al., Sparse deconvolution improves the resolution of live-cell super-resolution fluorescence microscopy, Nature Biotechnology (2021).](https://doi.org/10.1038/s41587-021-01092-2)
 
 <details>
 <summary><b>Plans</b></summary>
@@ -151,10 +151,8 @@ More on [Wiki](https://github.com/WeisongZhao/Sparse-SIM/wiki/).
 - This software and corresponding methods can only be used for **non-commercial** use, and they are under Open Data Commons Open Database License v1.0.
 - Feedback, questions, bug reports and patches are welcome and encouraged!
 
-
-
-<p align='center'>
+<!-- <p align='center'>
   <img src='./sources/HIT.jpg' width='240'/>
   <img src='./sources/PKU.jpg' width='240'/>
-</p>
+</p> -->
 
