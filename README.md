@@ -130,6 +130,7 @@ More on [Wiki](https://github.com/WeisongZhao/Sparse-SIM/wiki/).
 - v0.1.0 Sparsity reconstruction core
 
 ## Related links: 
+- Python version of Sparse deconvolution: [sparse-deconv-py](https://github.com/WeisongZhao/sparse-deconv-py/)
 - A light weight MATLAB library for making exsiting images to videos: [img2vid](https://github.com/WeisongZhao/img2vid/)
 - An adaptive filter to remove isolate hot pixels: [Adaptive filter imagej-plugin](https://github.com/WeisongZhao/AdaptiveMedian.imagej/)
 - A tool for multi-color 2D or 3D imaging: [Merge channels](https://github.com/WeisongZhao/Palette.ui)
