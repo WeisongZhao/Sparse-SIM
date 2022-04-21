@@ -1,6 +1,6 @@
-%***************************************************************************
+% **************************************************************************************
 % Sparse deconvolution algorithm core
-%***************************************************************************
+% **************************************************************************************
 % function g = SparseHessian_core(f,fidelity,contiz,paral1,iteration,gpu,mu)
 %-----------------------------------------------
 %Source code for
@@ -17,18 +17,18 @@
 %Output:
 %   g
 %
-%***************************************************************************
+% **************************************************************************************
 % Written by WeisongZhao @ zhaoweisong950713@163.com
 % Version 1.0.3
 % if any bugs is found, please just email me or put an issue on the github.
-%***************************************************************************
+% **************************************************************************************
 % hhttps://weisongzhao.github.io/Sparse-SIM/
-% *********************************************************************************
+% **************************************************************************************
 % It is a part of publication:
 % Weisong Zhao et al. Sparse deconvolution improves the resolution of live-cell
-% super-resolution fluorescence microscopy, Nature Biotechnology, X, XXX-XXX (2021).
+% super-resolution fluorescence microscopy , Nature Biotechnology, 40, 606–617 (2022).
 % https://doi.org/10.1038/s41587-021-01092-2
-% *********************************************************************************
+% **************************************************************************************
 %    Copyright 2018~2021 Weisong Zhao et al.
 %
 %    This program is free software: you can redistribute it and/or modify
@@ -43,7 +43,7 @@
 %    Open Data Commons Open Database License
 %    along with this program.  If not, see:
 %    <https://opendatacommons.org/licenses/odbl/>.
-%***************************************************************************
+% **************************************************************************************
 function g=SparseHessian_core(f,fidelity,contiz,paral1,iteration,gpu,mu)
 
 if nargin < 5 || isempty(iteration)
