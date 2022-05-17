@@ -1,7 +1,7 @@
 function Background = background_estimation(imgs,th,dlevel,wavename,iter)
-**************************************************************************************
+%**************************************************************************************
 % Background estimation
-**************************************************************************************
+%**************************************************************************************
 % function Background = background_estimation(imgs,th,dlevel,wavename,iter)
 %-----------------------------------------------
 %Source code for background estimation
@@ -13,11 +13,11 @@ function Background = background_estimation(imgs,th,dlevel,wavename,iter)
 %------------------------------------------------
 %Output:
 %  Background
-**************************************************************************************
+%**************************************************************************************
 % Written by WeisongZhao @ zhaoweisong950713@163.com
 % Version 1.0.3
 % if any bugs is found, please just email me or put an issue on the github.
-**************************************************************************************
+%**************************************************************************************
 % https://weisongzhao.github.io/Sparse-SIM/
 % **************************************************************************************
 % It is a part of publication:
@@ -39,7 +39,7 @@ function Background = background_estimation(imgs,th,dlevel,wavename,iter)
 %    Open Data Commons Open Database License
 %    along with this program.  If not, see:
 %    <https://opendatacommons.org/licenses/odbl/>.
-**************************************************************************************
+%**************************************************************************************
 if nargin < 2 || isempty(th)
     th=1;
 end
