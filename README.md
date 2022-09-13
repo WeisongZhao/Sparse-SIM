@@ -66,7 +66,7 @@ If you are interested in our work, I wrote a [#behind_the_paper](https://bioengi
 
 Here is also a [blog](https://weisongzhao.github.io/rl_positivity_sim/) about it for further reading.
 
-This method has been tested on **various types of** `Confocal microscopy & STED microscopy`, `Wide-field & TIRF microscopy`, `Light-sheet microscopy`, `Multi-photon microscopy`, `Structured illumination microscopy`, 
+This method has been tested on **various types of** `Confocal microscopy & STED microscopy`, `Wide-field & TIRF microscopy`, `Light-sheet microscopy`, `Multi-photon microscopy`, and `Structured illumination microscopy`, feasible for single-slice, time-lapse, and volumetric datasets. 
 
 
 ## Introduction
