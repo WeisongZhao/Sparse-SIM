@@ -93,7 +93,7 @@ help Fourier_Oversample
 ### Installation of binary executable file (.exe) for Win10 system.
 
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/99CoWvTtQwg/0.jpg)](https://www.youtube.com/watch?v=99CoWvTtQwg)
+https://www.youtube.com/watch?v=99CoWvTtQwg
 
 
 <p align='center'>
