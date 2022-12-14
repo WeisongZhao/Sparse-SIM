@@ -93,8 +93,7 @@ help Fourier_Oversample
 ### Installation of binary executable file (.exe) for Win10 system.
 
 
-https://www.youtube.com/watch?v=99CoWvTtQwg
-
+[![](https://res.cloudinary.com/marcomontalbano/image/upload/v1671001722/video_to_markdown/images/youtube--99CoWvTtQwg-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=99CoWvTtQwg "")
 
 <p align='center'>
     <img src='./sources/SSIM.gif' width='800'/>
