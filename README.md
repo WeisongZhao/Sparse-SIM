@@ -33,7 +33,7 @@
 </p>
 
 
-It is a part of publication. For details, please refer to: [Weisong Zhao et al. Sparse deconvolution improves the resolution of live-cell super-resolution fluorescence microscopy, Nature Biotechnology 40, 606–617 (2022).](https://doi.org/10.1038/s41587-021-01092-2)</h>
+It is a part of publication. For details, please refer to: [Weisong Zhao et al. Sparse deconvolution improves the resolution of live-cell super-resolution fluorescence microscopy, Nature Biotechnology 40, 606–617 (2022).](https://doi.org/10.1038/s41587-021-01092-2)<h>
 
 
 The related Python version can be found at [HERE](https://github.com/WeisongZhao/sparse-deconv-py/)
