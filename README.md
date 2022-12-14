@@ -37,25 +37,7 @@ It is a part of publication. For details, please refer to:
 </p>
 
 <p align='center'>
-  <b> <a href="https://doi.org/10.1038/s41587-021-01092-2">Sparse deconvolution improves the resolution of live-cell super-resolution fluorescence microscopy</a></b>
-</p>
-
-<p align='center'>
-  <b><a href="https://weisongzhao.github.io/">Weisong Zhao</a><sup>1,3</sup>, Shiqun Zhao <sup>2,3</sup>, Liuju Li <sup>2,3</sup>,
-<a href="http://homepage.hit.edu.cn/lihaoyu">Haoyu Li</a><sup>1,✉</sup></b>
-<b><a href="http://www.imm.pku.edu.cn/kytd/rcdw/24147.htm">Liangyi Chen</a><sup>2,✉</sup></b>
-</p>
-
-<p align='center'>
-<sup>1</sup> <a href="http://ise.hit.edu.cn/"> School of Instrumentation Science and Engineering</a>, Harbin Institute of Technology, Harbin 150080, China. 
-</p> 
-
-<p align='center'>
-<sup>2</sup> <a href="http://www.biomembrane.tsinghua.edu.cn/zh/">State Key Laboratory of Membrane Biology</a>, Beijing Key Laboratory of Cardiometabolic Molecular Medicine, Institute of Molecular Medicine, Peking University, Beijing 100871, China
-</p>
-
-<p align='center'>
-<sup>3</sup>Equally contributed.
+  <b> <a href="https://doi.org/10.1038/s41587-021-01092-2">Weisong Zhao et al. Sparse deconvolution improves the resolution of live-cell super-resolution fluorescence microscopy, Nature Biotechnology 40, 606–617 (2022).</a></b>
 </p>
 
 The related Python version can be found at [HERE](https://github.com/WeisongZhao/sparse-deconv-py/)
