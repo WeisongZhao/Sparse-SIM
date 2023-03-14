@@ -61,12 +61,15 @@ This method has been tested on **various types of** `Confocal microscopy & STED 
 - /src_unix is the source code for Unix-like systems (including MacOS).
 - /src_win is the source code for Windows systems.
 - Clone/download, and run the `Install.m`
+- The input `Effective NA` should be given according to the sum of `illumination NA` and `detection NA`. For instances: wide-field is the `objective NA` (e.g., 1.49); SIM is the `illumination NA + objective NA` (e.g., 1.3 + 1.7); SD-SIM is `~1.8 * objective NA`.
 - Please try help `xxx` to get the API.
 ```python
 help SparseHessian_core
 help background_estimation
 help Fourier_Oversample
 ```
+
+
 
 ### Installation of binary executable file (.exe) for Win10 system.
 
