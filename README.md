@@ -16,7 +16,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5079743.svg)](https://doi.org/10.5281/zenodo.5079743)
 [![Github All Releases](https://img.shields.io/github/downloads/WeisongZhao/Sparse-SIM/total.svg)](https://github.com/WeisongZhao/Sparse-SIM/releases/tag/v1.0.3/) 
 [![License](https://img.shields.io/github/license/WeisongZhao/Sparse-SIM)](https://github.com/WeisongZhao/Sparse-SIM/blob/master/LICENSE/)<br>
-[![Twitter](https://img.shields.io/twitter/follow/weisong_zhao?label=weisong)](https://twitter.com/weisong_zhao/status/1370308101690118146)
+[![Twitter](https://img.shields.io/twitter/follow/weisong_zhao?label=weisong)](https://twitter.com/hashtag/sparsedeconvolution?src=hashtag_click)
 [![GitHub watchers](https://img.shields.io/github/watchers/WeisongZhao/Sparse-SIM?style=social)](https://github.com/WeisongZhao/Sparse-SIM/) 
 [![GitHub stars](https://img.shields.io/github/stars/WeisongZhao/Sparse-SIM?style=social)](https://github.com/WeisongZhao/Sparse-SIM/) 
 [![GitHub forks](https://img.shields.io/github/forks/WeisongZhao/Sparse-SIM?style=social)](https://github.com/WeisongZhao/Sparse-SIM/)
