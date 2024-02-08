@@ -38,7 +38,7 @@ It is a part of publication. For details, please refer to: [Weisong Zhao et al. 
 
 The related Python version can be found at [HERE](https://github.com/WeisongZhao/sparse-deconv-py/)
 
-You can also find some fancy results and comparisons on my [website](https://weisongzhao.github.io/MyWeb2/portfolio-4-col.html).
+You can also find some fancy results and comparisons on my [website](https://weisongzhao.github.io/home/portfolio-4-col.html#SparseSIM).
 
 If you are interested in our work, I wrote a [#behind_the_paper](https://bioengineeringcommunity.nature.com/posts/physical-resolution-might-be-meaningless-if-in-the-mathmetical-space) post for further reading.
 
@@ -122,7 +122,7 @@ More on [Wiki](https://github.com/WeisongZhao/Sparse-SIM/wiki/).
 - An adaptive filter to remove isolate hot pixels: [Adaptive filter imagej-plugin](https://github.com/WeisongZhao/AdaptiveMedian.imagej/)
 - A tool for multi-color 2D or 3D imaging: [Merge channels](https://github.com/WeisongZhao/Palette.ui)
 - **Further reading:** [#behind_the_paper](https://bioengineeringcommunity.nature.com/posts/physical-resolution-might-be-meaningless-if-in-the-mathmetical-space) & [blog](https://weisongzhao.github.io/rl_positivity_sim/)
-- **Some fancy results and comparisons:** [my website](https://weisongzhao.github.io/MyWeb2/portfolio-4-col.html)
+- **Some fancy results and comparisons:** [my website](https://weisongzhao.github.io/home/portfolio-4-col.html#SparseSIM)
 - **Preprint:** [Weisong Zhao et al., Extending resolution of structured illumination microscopy with sparse deconvolution, Research Square (2021).](https://doi.org/10.21203/rs.3.rs-279271/v1)
 - **Reference:** [Weisong Zhao et al. Sparse deconvolution improves the resolution of live-cell super-resolution fluorescence microscopy, Nature Biotechnology 40, 606–617 (2022).](https://doi.org/10.1038/s41587-021-01092-2)
 
