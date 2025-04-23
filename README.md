@@ -29,7 +29,7 @@
 </p>  
 
 <p align='center'>
-<i>Words written in the front: Physical resolution might be meaningless if in the mathmetical space.</i>
+<i>Words written in the front: Physical resolution might be meaningless if in the mathematical space.</i>
 </p>
 
 
