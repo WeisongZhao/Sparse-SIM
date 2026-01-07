@@ -7,6 +7,8 @@
      <a href="https://www.nature.com/nbt/"><img src='https://img.shields.io/badge/paper-Nature%20Biotechnology-black.svg' /></a>
  </p> -->
 
+
+
 [![code](https://img.shields.io/badge/code-1.0.3-yellow.svg)](https://github.com/WeisongZhao/Sparse-SIM/)
 [![website](https://img.shields.io/badge/website-up-green.svg)](https://weisongzhao.github.io/Sparse-SIM/)
 [![releases](https://img.shields.io/badge/release-v1.0.3-blue.svg)](https://github.com/WeisongZhao/Sparse-SIM/releases/tag/v1.0.3/)
@@ -40,7 +42,7 @@ The related Python version can be found at [HERE](https://github.com/WeisongZhao
 
 You can also find some fancy results and comparisons on my [website](https://weisongzhao.github.io/home/portfolio-4-col.html#Sparse).
 
-If you are interested in our work, I wrote a [#behind_the_paper](https://bioengineeringcommunity.nature.com/posts/physical-resolution-might-be-meaningless-if-in-the-mathmetical-space) post for further reading.
+If you are interested in our work, I wrote a [#behind_the_paper](https://communities.springernature.com/posts/physical-resolution-might-be-meaningless-if-in-the-mathematical-space) post for further reading.
 
 Here is also a [blog](https://weisongzhao.github.io/rl_positivity_sim/) about it for further reading.
 
