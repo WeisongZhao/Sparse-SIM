@@ -7,7 +7,8 @@
      <a href="https://www.nature.com/nbt/"><img src='https://img.shields.io/badge/paper-Nature%20Biotechnology-black.svg' /></a>
  </p> -->
 
-
+> [!IMPORTANT]  
+This repository is no longer actively maintained. Future development will take place at [SR-Wiki/Sparse-deconvolution](https://github.com/SR-Wiki/Sparse-deconvolution).<br><br>
 
 [![code](https://img.shields.io/badge/code-1.0.3-yellow.svg)](https://github.com/WeisongZhao/Sparse-SIM/)
 [![website](https://img.shields.io/badge/website-up-green.svg)](https://weisongzhao.github.io/Sparse-SIM/)
